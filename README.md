@@ -27,7 +27,6 @@
 
 <p align="center">
   <a href="https://github.com/aimanehtml59">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
   </a>
 </p>
 <!--
