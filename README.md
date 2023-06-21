@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Aimane.<br>
-       I am currently learning fullstack development. Do not hesitate to look at my projects<br>
+       I am currently learning fullstack development.<br>
          Do not hesitate to look at my projects<br>
     </i><br>
     <a href="mailto:aimanebelahcen@gmail.com">
