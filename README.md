@@ -7,9 +7,6 @@
        I am currently learning fullstack development. Do not hesitate to look at my projects<br>
          Do not hesitate to look at my projects<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/wervlad">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
     <a href="mailto:aimanebelahcen@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
